@@ -1,0 +1,16 @@
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\bin\Debug\net5.0\VctHotel.exe
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\bin\Debug\net5.0\VctHotel.deps.json
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\bin\Debug\net5.0\VctHotel.runtimeconfig.json
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\bin\Debug\net5.0\VctHotel.runtimeconfig.dev.json
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\bin\Debug\net5.0\VctHotel.dll
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\bin\Debug\net5.0\ref\VctHotel.dll
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\bin\Debug\net5.0\VctHotel.pdb
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\obj\Debug\net5.0\VctHotel.csproj.AssemblyReference.cache
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\obj\Debug\net5.0\VctHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\obj\Debug\net5.0\VctHotel.AssemblyInfoInputs.cache
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\obj\Debug\net5.0\VctHotel.AssemblyInfo.cs
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\obj\Debug\net5.0\VctHotel.csproj.CoreCompileInputs.cache
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\obj\Debug\net5.0\VctHotel.dll
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\obj\Debug\net5.0\ref\VctHotel.dll
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\obj\Debug\net5.0\VctHotel.pdb
+C:\repos\Tunad.AdobeLogs\app\src\VctHotel\VctHotel\obj\Debug\net5.0\VctHotel.genruntimeconfig.cache
